@@ -3,16 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "The Final project of Siyao"
+  title: "Siyao Liu's Final HW"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Hobbies.qmd
+        text: Hobbies
 
 format:
   html:
-    theme: cosmo
+    theme: vapor
     css: styles.css
     toc: true
 

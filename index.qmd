@@ -1,11 +1,34 @@
 ---
-title: "siyao.github.io"
+title: "Siyao Liu"
+image: picture.jpeg
+about:
+  template: solana
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:siyaoliu64111@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/
+  id: ppc
 ---
 
-This is a Quarto website.
+:::{#ppc}
+Welcome! I’m Siyao Liu, a passionate data wrangler.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Skills
 
-```{r}
-1 + 1
-```
+- Data analysis with R and Python
+- Visualization using ggplot2 and Quarto
+- Econometric modeling and interpretation
+
+## Education
+
+- B.A. in Economics and B.S. in Math
+- University of Colorado Denver
+- GPA: 3.85
+- Relevant courses: Econometrics, Data Wrangling and Visualization, Math Clinic
+:::
+---

@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Siyao Liu"
 ---
 
-About this site
+![Me in Las Vegas](picture.jpeg)
 
-```{r}
-1 + 1
-```
+---

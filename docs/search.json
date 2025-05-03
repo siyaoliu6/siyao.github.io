@@ -2,15 +2,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "siyao.github.io",
+    "title": "Siyao Liu",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n\n      \nWelcome! I’m Siyao Liu, a passionate data wrangler.\n\n\n\nData analysis with R and Python\nVisualization using ggplot2 and Quarto\nEconometric modeling and interpretation\n\n\n\n\n\nB.A. in Economics and B.S. in Math\nUniversity of Colorado Denver\nGPA: 3.85\nRelevant courses: Econometrics, Data Wrangling and Visualization, Math Clinic"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Siyao Liu",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Me in Las Vegas"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Siyao Liu",
+    "section": "Welcome!",
+    "text": "Welcome!\nI’m Siyao Liu, a passionate data wrangler."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Siyao Liu",
+    "section": "",
+    "text": "B.A. in Economics and B.S. in Math\nUniversity of Colorado Denver\nGPA: 3.85\nRelevant courses: Econometrics, Data Wrangling and Visualization, Math Clinic"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Siyao Liu",
+    "section": "",
+    "text": "Data analysis with R and Python\nVisualization using ggplot2 and Quarto\nEconometric modeling and interpretation"
+  },
+  {
+    "objectID": "Hobbies.html",
+    "href": "Hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I love playing guitar because it allows me to express emotions through music. I’ve been practicing for 5 years and can play both acoustic and electric guitar. What’s more, I enjoy covering pop songs and writing original riffs.\n\n\n\n\nRunning helps me clear my mind and stay fit. I run 3–4 times a week, and last year I completed my first 10k race!\n\n\n\nGaming is my way to relax and connect with friends online. My favorite genres are RPGs and strategy games. I’m currently playing Zelda: Tears of the Kingdom."
+  },
+  {
+    "objectID": "Hobbies.html#my-hobbies",
+    "href": "Hobbies.html#my-hobbies",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I love playing guitar because it allows me to express emotions through music. I’ve been practicing for 5 years and can play both acoustic and electric guitar. What’s more, I enjoy covering pop songs and writing original riffs.\n\n\n\n\nRunning helps me clear my mind and stay fit. I run 3–4 times a week, and last year I completed my first 10k race!\n\n\n\nGaming is my way to relax and connect with friends online. My favorite genres are RPGs and strategy games. I’m currently playing Zelda: Tears of the Kingdom."
   }
 ]

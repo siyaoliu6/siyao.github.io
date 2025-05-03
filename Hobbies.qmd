@@ -1,0 +1,19 @@
+---
+title: "Hobbies"
+---
+## My Hobbies:
+
+### Playing Guitar
+
+I love playing guitar because it allows me to express emotions through music. I’ve been practicing for 5 years and can play both acoustic and electric guitar. What's more, I enjoy covering pop songs and writing original riffs.
+
+![](playing guitar.jpg){width=300px}
+
+### Running
+
+Running helps me clear my mind and stay fit. I run 3–4 times a week, and last year I completed my first 10k race!
+
+### Video Games
+
+Gaming is my way to relax and connect with friends online. My favorite genres are RPGs and strategy games. I’m currently playing Zelda: Tears of the Kingdom.
+---
