@@ -15,20 +15,21 @@ about:
   id: ppc
 ---
 
-:::{#ppc}
+::: {#ppc}
 Welcome! I’m Siyao Liu, a passionate data wrangler.
 
 ## Skills
 
-- Data analysis with R and Python
-- Visualization using ggplot2 and Quarto
-- Econometric modeling and interpretation
+-   Data analysis with R and Python
+-   Visualization using ggplot2 and Quarto
+-   Econometric modeling and interpretation
 
 ## Education
 
-- B.A. in Economics and B.S. in Math
-- University of Colorado Denver
-- GPA: 3.85
-- Relevant courses: Econometrics, Data Wrangling and Visualization, Math Clinic
+-   B.A. in Economics and B.S. in Math
+-   University of Colorado Denver
+-   GPA: 3.85
+-   Relevant courses: Econometrics, Data Wrangling and Visualization, Math Clinic
 :::
----
+
+------------------------------------------------------------------------
